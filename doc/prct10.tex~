@@ -1,0 +1,32 @@
+
+\documentclass[12pt,a4paper]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+\title{Numero $\pi $}
+\author{Bianca Estefanía Kennedy Giménez}
+\date{11 de Abril de 2014}
+\maketitle
+
+\begin{abstract}
+El número $\pi$ es la relacin entra la longitud de una circunferencia y su diámetro, en geometría euclidiana. Es un número irracional y una de las constantes matemáticas más importantes.
+El valor de $\pi$ se ha obtenido con diversas aproximaciones a lo largo de la historia, siendo una de las constantes matemáticas que más aparece en las ecuaciones de la física, junto con el número e. 
+\end{abstract}
+
+\section{Introducción}
+Esto es una cita~\cite{Lamport:LDP94}.
+
+\section{Historia}
+\subsection{Matemática egipcia}
+El valor aproximado de $\pi$ en las antiguas culturas se remonta a la época del escriba egipcio Ahmes en el año 1800 a.C.,descrito en el papiro Rhian donde se emplea un valor aproximado de $\pi$ afirmando que el área de un círculo es similar a la de un cuadrado cuyo lado es igual al diámetro del círculo disminuido en 1/9; es decir, igual a 8/9 del diámetro. En notación moderna:
+\subsection{Matemática antigua}
+El matemático griego Arquímedes (siglo III a. C.) fue capaz de determinar el valor de $\pi$ entre el intervalo comprendido por 3 10/71, como valor mínimo, y 3 1/7, como valor máximo. Con esta aproximación de Arquímedes se obtiene un valor con un error que oscila entre 0,024$\%$ y 0,040$\%$ sobre el valor real. El método usado por Arquímedes5 era muy simple y consistía en circunscribir e inscribir polígonos regulares de n-lados en circunferencias y calcular el perímetro de dichos polígonos. Arquímedes empezó con hexágonos circunscritos e inscritos, y fue doblando el número de lados hasta llegar a polígonos de 96 lados.
+
+Alrededor del año 20 d. C., el arquitecto e ingeniero romano Vitruvio calcula $\pi$ como el valor fraccionario 25/8 midiendo la distancia recorrida en una revolución por una rueda de diámetro conocido.
+\footnote{nota al pie}
+Además, podemos encontrar diferentes ecuaciones de aproximaciones del número pi a lo largo de la historia.
+\bibliographystyle{plain}
+\bibliography{prct10}
+
+\end{document}
